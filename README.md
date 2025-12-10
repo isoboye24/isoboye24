@@ -2,7 +2,7 @@
 
 ##🙋‍♂️ About me
 
-## I'm from Nigeria, currently living in Germany. I'm a huge fan of C# .NET, PHP, Node.js, Typescript, open-source and writing testable software. When I'm not crushing bugs or building dreams, I can be found playing table tennis, football, lifting weights and spending time with my beautiful wife Nataliia.
+I'm from Nigeria, currently living in Germany. I'm a huge fan of C# .NET, PHP, Node.js, Typescript, open-source and writing testable software. When I'm not crushing bugs or building dreams, I can be found playing table tennis, football, lifting weights and spending time with my beautiful wife Nataliia.
 
 🔭 I’m currently working on AI content generation SaaS with Laravel 12 & ChatGPT API.
 
