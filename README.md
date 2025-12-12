@@ -4,7 +4,7 @@
 
 I'm from Nigeria and BSUIR Minsk, Belarus trained computer scientist, currently living in Germany. I'm a huge fan of C# .NET, PHP, Node.js, Typescript, open-source and writing testable software. When I'm not crushing bugs or building dreams, I can be found playing table tennis, football, lifting weights and spending time with my beautiful wife Nataliia.
 
-🌱 I recently built a program to let language learners memorize new words, sentences, phrases of their choice in the language they choose learn, check it out [here](https://github.com/isoboye24/langnote)
+🌱 I recently built a program to let language learners memorize new words, sentences, phrases of their choice in the language they choose to learn, check it out [here](https://github.com/isoboye24/langnote)
 
 🔭 I’m currently working on AI content generation SaaS with Laravel 12 & ChatGPT API.
 
