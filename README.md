@@ -6,7 +6,7 @@ I'm from Nigeria and BSUIR Minsk, Belarus trained computer scientist, currently 
 
 🌱 I recently built a program to let language learners memorize new words, sentences, phrases of their choice in the language they choose to learn, check it out [here](https://github.com/isoboye24/langnote)
 
-🔭 I’m currently working on AI content generation SaaS with Laravel 12 & ChatGPT API.
+🔭 I’m currently integrating Clean Architecture principles into all my projects.
 
 <!--
 **isoboye24/isoboye24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
