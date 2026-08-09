@@ -6,7 +6,7 @@ I'm from Nigeria and BSUIR Minsk, Belarus-trained Software Engineer, currently l
 
 🌱 I recently built a program with Next.JS, TypeScript and PostgreSQL (Prisma) to let language learners memorize new words, sentences, phrases of their choice in the language they choose to learn, check it out [here](https://github.com/isoboye24/langnote)
 
-🔭 I’m currently developing a Dental Clinic Appointment Management System built with C# ASP.NET Core API and following Clean Architecture principles.
+🔭 I’m currently developing a Financial Management System Backend for an organization built with C# ASP.NET Core API and following Clean Architecture principles.
 
 <!--
 **isoboye24/isoboye24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
