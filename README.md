@@ -4,9 +4,9 @@
 
 I'm from Nigeria and BSUIR Minsk, Belarus-trained Software Engineer, currently living in Germany. I'm a huge fan of C# ASP.NET Core, API, Next JS and TypeScript. When I'm not crushing bugs or building dreams, I can be found playing table tennis, football and spending time with my beautiful wife Nataliia.
 
-🌱 I recently built a program with Next.JS, TypeScript and PostgreSQL (Prisma) to let language learners memorize new words, sentences, phrases of their choice in the language they choose to learn, check it out [here](https://github.com/isoboye24/langnote)
+🌱 I recently built an API program with ASP.NET and MSSQL for church organization for managing offerings, tithes, expenses, members, projects, financial reports, etc. [here]((https://github.com/isoboye24/MFM-Financial-Management-System))
 
-🔭 I’m currently developing a Financial Management System Backend for an organization built with C# ASP.NET Core API and following Clean Architecture principles.
+🔭 I’m currently developing the Financial Management System Frontend with C# Modern WPF.
 
 <!--
 **isoboye24/isoboye24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
