@@ -4,7 +4,7 @@
 
 I'm from Nigeria and BSUIR Minsk, Belarus-trained Software Engineer, currently living in Germany. I'm a huge fan of C# ASP.NET Core, API, Next JS and TypeScript. When I'm not crushing bugs or building dreams, I can be found playing table tennis, football and spending time with my beautiful wife Nataliia.
 
-🌱 I recently built an API program with ASP.NET and MSSQL for church organization for managing offerings, tithes, expenses, members, projects, financial reports, etc. [here]((https://github.com/isoboye24/MFM-Financial-Management-System))
+🌱 I recently built an ASP.NET Web API with MSSQL for a church financial management system, covering offerings, tithes, expenses, members, projects, financial reports, and more. [Check it out here](https://github.com/isoboye24/MFM-Financial-Management-System)
 
 🔭 I’m currently developing the Financial Management System Frontend with C# Modern WPF.
 
