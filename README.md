@@ -1,12 +1,19 @@
-## Hi there 👋, my name is Isoboye Vincent Dan-Obu.
+## Hi there 👋, I'm Isoboye Vincent Dan-Obu
 
-##🙋‍♂️ About me
+## 🙋‍♂️ About Me
 
-I'm from Nigeria and BSUIR Minsk, Belarus-trained Software Engineer, currently living in Germany. I'm a huge fan of C# ASP.NET Core, API, Next JS and TypeScript. When I'm not crushing bugs or building dreams, I can be found playing table tennis, football and spending time with my beautiful wife Nataliia.
+I'm a software engineer from Nigeria, educated at **Belarusian State University of Informatics and Radioelectronics (BSUIR)** in Minsk, Belarus, and currently based in Germany.
 
-🌱 I recently built an ASP.NET Web API with MSSQL for a church financial management system, covering offerings, tithes, expenses, members, projects, financial reports, and more. [Check it out here](https://github.com/isoboye24/MFM-Financial-Management-System)
+I'm passionate about building reliable, scalable software solutions using **C#, ASP.NET Core, REST APIs, React, Next.js, TypeScript, and SQL Server**. I enjoy solving complex problems, designing clean software architectures, and developing applications that address real-world needs.
 
-🔭 I’m currently developing the Financial Management System Frontend with C# Modern WPF.
+Outside software development, I enjoy playing table tennis and football, as well as spending quality time with my wife, Nataliia.
+
+🌱 **Featured Project:** I recently developed an ASP.NET Core Web API with SQL Server and a WPF desktop application for a church financial management system. The system supports offerings, tithes, expenses, member management, projects, financial reporting, and more.
+
+- 🔗 [Backend API – MFM Financial Management System](https://github.com/isoboye24/MFM-Financial-Management-System)
+- 🖥️ [Desktop Application – MFM Financial Management System](https://github.com/isoboye24/MFM_Financial_Management_System.Frontend)
+
+🔭 **Current Role:** I have been volunteering as Full Stack Software Developer at APC e.V. in Kassel, Germany, for more than two years, supporting the organization through software development and technical solutions.
 
 <!--
 **isoboye24/isoboye24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
